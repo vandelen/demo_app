@@ -1,6 +1,6 @@
 DemoApp::Application.routes.draw do
   resources :microposts
-
+create      acreate      a
   resources :users
 
   # The priority is based upon order of creation: first created -> highest priority.
@@ -35,7 +35,7 @@ DemoApp::Application.routes.draw do
   #     resources :comments, :sales
   #     resource :seller
   #   end
-
+create      acreate      acreate      acreate      a
   # Example resource route with more complex sub-resources:
   #   resources :products do
   #     resources :comments
